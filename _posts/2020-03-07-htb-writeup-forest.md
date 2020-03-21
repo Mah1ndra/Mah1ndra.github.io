@@ -20,8 +20,8 @@ categories:
 tags:
   - BloodHound
   - Active Directory
-  - Evil WinRM
-  - Impacket
+  - DCSync
+  - ASREPRoasting
 ---
 
 ![](/assets/images/htb-writeup-forest/forest_logo.png)
