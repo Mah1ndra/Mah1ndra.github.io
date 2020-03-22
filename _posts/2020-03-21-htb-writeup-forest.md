@@ -8,7 +8,7 @@ disabled can be cracked to gain a foothold. The service account is found to be a
 Account Operators group, which can be used to add users to privileged Exchange groups. The
 Exchange group membership is leveraged to gain DCSync privileges on the domain and dump the
 NTLM hashes."
-date: 2020-03-07
+date: 2020-03-21
 classes: wide
 header:
   teaser: /assets/images/htb-writeup-forest/forest_logo.png
