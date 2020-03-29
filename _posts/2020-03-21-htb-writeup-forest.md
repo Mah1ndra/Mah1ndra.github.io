@@ -45,6 +45,7 @@ NTLM hashes.
 
 
 ---
+## Enumeration
 ### Nmap
 ![](/assets/images/htb-writeup-forest/nmap.png)
 
