@@ -33,7 +33,7 @@ Postman is an easy difficult Linux machine, which features a Redis server runnin
 ---
 ## Enumeration
 ### Nmap
-```
+```java
 nmap -Pn -v -sC -sV -p 22,80,6379,10000 -o full.nmap 10.10.10.160
 Nmap scan report for postman (10.10.10.160)
 Host is up (0.28s latency).

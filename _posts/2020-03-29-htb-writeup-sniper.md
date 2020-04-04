@@ -38,7 +38,7 @@ Sniper is a Medium Windows machine. Initial foothold involves exploiting the `LF
 ---
 ## Enumeration
 ### Nmap
-```
+```java
 # Nmap 7.60 scan initiated Sat Feb 29 11:38:39 2020 as: nmap -sC -sV -v -p80,135,139,445,49667 -o full.nmap sniper.htb
 Nmap scan report for sniper.htb (10.10.10.151)
 Host is up (0.24s latency).
