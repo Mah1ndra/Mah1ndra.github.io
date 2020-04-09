@@ -16,6 +16,7 @@ tags:
   - Command Injection
   - GTFObins
   - SUID
+  - OSCP
 ---
 
 ![](/assets/images/htb-writeup-jarvis/jarvis_logo.png)
