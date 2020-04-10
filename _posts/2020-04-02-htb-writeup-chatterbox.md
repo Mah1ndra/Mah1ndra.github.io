@@ -12,10 +12,10 @@ categories:
   - hackthebox
   - infosec
 tags:
-  - SQL Injection
-  - Command Injection
-  - GTFObins
-  - SUID
+  - Buffer Overflow
+  - Icacls
+  - PowerUP
+  - OSCP
 ---
 
 ![](/assets/images/htb-writeup-chatterbox/chatterbox_logo.png)
