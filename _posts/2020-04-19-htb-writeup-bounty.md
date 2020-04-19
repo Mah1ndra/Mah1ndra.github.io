@@ -15,7 +15,7 @@ tags:
   - OSCP
   - IIS
   - RCE
-  - ASPX
+  - File Upload
   - JuicyPotato
 ---
 
