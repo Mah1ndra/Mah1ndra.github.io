@@ -233,4 +233,4 @@ A shell as root should be received.
 
 ![](/assets/images/htb-writeup-postman/root.png)
 
-Thank you for taking you're time for reading this blog!.
+Thank you for taking your time for reading this blog!.

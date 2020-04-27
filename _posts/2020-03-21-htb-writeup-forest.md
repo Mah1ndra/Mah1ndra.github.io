@@ -153,6 +153,6 @@ We can perform pass the hash using `Evil-winrm`. with hash `32693b11e6aa90eb43d3
 
 ![](/assets/images/htb-writeup-forest/root.png)
 
-Thank you for taking you're time for reading this blog!.
+Thank you for taking your time for reading this blog!.
 
 

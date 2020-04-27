@@ -328,4 +328,4 @@ sniper\administrator
 PS C:\users\administrator\desktop> gc root.txt
 5624caf363e2750e994f6be0b7436c15
 ```
-Thank you for taking you're time for reading this blog!.
+Thank you for taking your time for reading this blog!.

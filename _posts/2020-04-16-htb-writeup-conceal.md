@@ -871,5 +871,5 @@ we can use `psexec` to get a shell as `SYSTEM`.
 ```
 psexec.py conceal/administrator:pwned@10.10.10.116
 ```
-Thank you for taking you're time for reading this blog!.
+Thank you for taking your time for reading this blog!.
 

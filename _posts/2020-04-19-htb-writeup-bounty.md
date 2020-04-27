@@ -318,6 +318,6 @@ nt authority\system
 PS C:\Windows\system32> hostname
 bounty
 ```
-Thank you for taking you're time for reading this blog!.
+Thank you for taking your time for reading this blog!.
 
 
